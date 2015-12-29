@@ -1,0 +1,7 @@
+2:07 AM 12/29/15
+Reflections 2 - Lesson 2
+What happens when you initialize a repository? A .git file is created and the message "Initialized empty Git repository in C:/Users/NHR/Documents/meine/Reference/Bildung/Android Course/MyRepo/.git/" appears.
+
+Why do you need to do it? to be able to start tracking repository files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers? the staging area holds files or changes that are ready to be committed. not sure.
