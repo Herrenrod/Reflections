@@ -11,3 +11,5 @@ What are some situations when branches would be helpful in keeping your history 
 
 3:30 PM 12/29/15
 How do the diagrams help you visualize the branch structure? easy to see the relationships between different branches and their parents.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do? R/ all previous commits are reachable by the single branch tip created by the merge command. because the branches become one (master).
