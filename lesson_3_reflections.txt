@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally? would help in inspecting sources of conflicts when syncing local and remote versions.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? i would have to send updates (files, directories, etc.) by other means such as email or physically sharing drives (thumb drives, network drives, etc.) which would be tedious at best and risky at worst. it would be hard to obtain prompt feedback and also hard to track all the interactions.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have? R/ whenever i wanted to have someone else contribute feedback or changes to the project before making it official and public.
+Creating and updating a separate branch is more complicated and prone for errors, but it does offer the possibility of allowing other people participate in the development of the project; working directly on the master is faster and less convoluted but it may be difficult to incorporate changes from other developers.
